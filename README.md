@@ -1,2 +1,0 @@
-# ProjektPAI
-Projektowanie aplikacji internetowych
